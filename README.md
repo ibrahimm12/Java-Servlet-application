@@ -1,2 +1,1 @@
-# Java-Servlet-application
- reserve trips
+Java Servlet application which is behind authentication and allows users to reserve trips. The user interface include a list of origins, destinations, a field for date and time, a field for customer name and the option for uploading user image. After providing required data and clicking submit button, the application save all trip data to a MySQL database on  server. Image data could be saved either to the database or to a subdirectory under the application directory.  
